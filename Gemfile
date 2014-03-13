@@ -4,9 +4,6 @@ gem 'colorize'
 
 gem 'mail'
 
-gem 'ruby-progressbar'
-
-gem 'asciiart'
 
 
 
