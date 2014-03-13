@@ -1,6 +1,5 @@
 require 'socket'
 require 'timeout'
-require 'shoes'
 def is_port_open?(host, port)
   begin
     Timeout::timeout(1) do
