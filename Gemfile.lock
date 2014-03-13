@@ -1,0 +1,27 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    asciiart (0.0.7)
+      rainbow
+      rmagick
+    colorize (0.6.0)
+    mail (2.5.4)
+      mime-types (~> 1.16)
+      treetop (~> 1.4.8)
+    mime-types (1.25.1)
+    polyglot (0.3.4)
+    rainbow (2.0.0)
+    rmagick (2.13.2)
+    ruby-progressbar (1.2.0)
+    treetop (1.4.15)
+      polyglot
+      polyglot (>= 0.3.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  asciiart
+  colorize
+  mail
+  ruby-progressbar
