@@ -3,11 +3,9 @@ require 'socket'
 require 'colorize'
 require 'mail'
 load 'methods.rb'
-#Todo:
-#Add manual stop while initiating payload with input 'Stop' rather than Ctrl+C stop - returns interruption error
-#Learn multi-threading for more effective payloads
-#Research search specific payloads ~/Desktop/EXPLOIT NOTES.txt
-#Add SSL support
+######################
+###SLOTHLORIS v 1.0###
+######################
 
 puts '1) Port Scanner'
 puts '2) DoS Attack'
